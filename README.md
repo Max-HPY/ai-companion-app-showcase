@@ -34,4 +34,8 @@ The system follows a client-server architecture:
 - Frontend: Mobile interface built with React Native  
 - Backend: RESTful API layer handling user interactions and data processing  
 - Data Flow: User input → API → AI processing → response rendering  
-- Storage: Structured data management for user sessions and chat history  
+- Storage: Structured data management for user sessions and chat history
+
+## Demo Preview
+
+![App Screenshot](images/demo.jpg)
