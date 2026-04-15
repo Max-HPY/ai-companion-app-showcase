@@ -29,10 +29,9 @@ Available upon request. I would be happy to walk through the project and its imp
 
 ## Architecture (Simplified)
 
-Frontend (React Native)
-        ↓
-   RESTful API
-        ↓
-   Backend Logic
-        ↓
-     Data Storage
+The system follows a client-server architecture:
+
+- Frontend: Mobile interface built with React Native  
+- Backend: RESTful API layer handling user interactions and data processing  
+- Data Flow: User input → API → AI processing → response rendering  
+- Storage: Structured data management for user sessions and chat history  
