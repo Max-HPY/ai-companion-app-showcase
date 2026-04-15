@@ -26,3 +26,13 @@ This repository is a project showcase. Source code is not included due to team c
 
 ## Demo
 Available upon request. I would be happy to walk through the project and its implementation in detail.
+
+## Architecture (Simplified)
+
+Frontend (React Native)
+        ↓
+   RESTful API
+        ↓
+   Backend Logic
+        ↓
+     Data Storage
