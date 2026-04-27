@@ -4,15 +4,9 @@
 
 ---
 
-## Demo Preview
+## 🎥 Demo Video
 
-![App Screenshot](images/demo.jpg)
-
----
-
-## Demo Video
-
-🎥 Available upon request. I would be happy to walk through a live demo.
+[![Watch Demo](https://youtube.com/shorts/t33GVql_nBc?feature=share)
 
 ---
 
@@ -55,7 +49,7 @@ A full-stack AI-powered mobile application that enables personalized conversatio
 The system follows a client-server architecture:
 
 - Frontend: Mobile interface built with React Native  
-- Backend: RESTful API layer handling user interactions and data processing  
+- Backend: RESTful API layer handling user interactions and data processing, AI service layer to generate prompt to call and receive message from external AI API  
 - Data Flow: User input → API → AI processing → response rendering  
 - Storage: Structured data management for user sessions and chat history  
 
