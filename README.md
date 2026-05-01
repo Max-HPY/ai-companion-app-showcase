@@ -38,7 +38,7 @@ A full-stack AI-powered mobile application that enables personalized conversatio
 ## Tech Stack
 
 - Frontend: React Native  
-- Backend: RESTful APIs  
+- Backend: RESTful APIs (FastAPI framework)  
 - Languages: JavaScript / TypeScript  
 - Tools: Git, Agile workflow  
 
