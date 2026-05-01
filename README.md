@@ -1,6 +1,6 @@
 # AI Companion Mobile Application
 
-🚀 A full-stack AI-powered mobile app enabling personalized conversations with configurable AI personas, supporting real-time interaction through RESTful APIs.
+🚀 A full-stack AI-powered mobile app enabling personalized conversations with configurable AI personas, supporting real-time interaction through RESTful APIs. This project simulates an AI-driven conversational agent system with configurable behaviors and persistent context handling.
 
 ---
 
