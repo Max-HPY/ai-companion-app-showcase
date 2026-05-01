@@ -27,7 +27,7 @@ A full-stack AI-powered mobile application that enables personalized conversatio
 
 ## My Contributions
 
-- Designed and implemented RESTful APIs for chat history, user messaging, and AI persona management  
+- Designed and implemented RESTful APIs using FastAPI for chat history, user messaging, and AI persona management  
 - Developed interactive frontend features using React Native  
 - Integrated frontend components with backend services to enable real-time user interactions  
 - Structured API communication and data flow to ensure consistency and scalability  
@@ -39,7 +39,7 @@ A full-stack AI-powered mobile application that enables personalized conversatio
 
 - Frontend: React Native  
 - Backend: RESTful APIs (FastAPI framework)  
-- Languages: JavaScript / TypeScript  
+- Languages: JavaScript / TypeScript, Python
 - Tools: Git, Agile workflow  
 
 ---
